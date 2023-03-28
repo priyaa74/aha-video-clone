@@ -11,3 +11,5 @@ Live: https://ahavideoclone.vercel.app/
 * LOCAL STORAGE
 
 ### This is our Unit 6 construct week project which was created by Team of 5 members. 
+
+![](https://github.com/priyaa74/aha-video-clone/blob/main/ahaAnim.gif)
